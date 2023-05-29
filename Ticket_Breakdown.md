@@ -74,7 +74,7 @@ The field in the Agent Model:
 ## TICKET-3
 
 ### Title
-As I user I want to use the custom if when generating reports
+As I user I want to use the custom agent ID when generating reports
 
 ### Description
 Currently, we are using the generated agent for generating reports, now we want to give the ability to user to choose if to use the customAgentId
